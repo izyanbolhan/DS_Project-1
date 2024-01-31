@@ -1,3 +1,8 @@
-Predicting Optimal Process Conditions on Wafer Fabrication for Yield Enhancement.
+Title : Predicting Optimal Process Conditions on Wafer Fabrication for Yield Enhancement.
 
 Background : 
+Wafer fabrication is a complex and critical stage in semiconductor manufacturing, where the production of high-quality integrated circuits heavily depends on precise process conditions. Achieving optimal process conditions is paramount for enhancing yield, minimizing defects, and ultimately improving the overall efficiency of the fabrication process. The current landscape of wafer fabrication involves heavily influenced by functional parameters and various process conditions. Identifying the ideal combination of these factors can be challenging due to the nature of semiconductor manufacturing.
+
+Objective : To build a predictive model for optimal process conditions on wafer fabrication for yield enhancement.
+
+Refer to project presentation : https://new.express.adobe.com/webpage/koRveIxVJqYpH
