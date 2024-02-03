@@ -1,8 +1,8 @@
-Title : Predicting Optimal Process Conditions on Wafer Fabrication for Yield Enhancement.
+Title : Predictive Model to Define the Next Step After Wafer Testing
 
 Background : 
-Wafer fabrication is a complex and critical stage in semiconductor manufacturing, where the production of high-quality integrated circuits heavily depends on precise process conditions. Achieving optimal process conditions is paramount for enhancing yield, minimizing defects, and ultimately improving the overall efficiency of the fabrication process. The current landscape of wafer fabrication involves heavily influenced by functional parameters and various process conditions. Identifying the ideal combination of these factors can be challenging due to the nature of semiconductor manufacturing.
+Functional testing is a crucial part of semiconductor manufacturing. It involves subjecting the ICs to various electrical tests to ensure they meet the required specifications. Currently, we, the product engineers have to verify parameter results and determine whether the lot is safe to deliver or require to run for more assessment. This process is very time consuming and require a lot of effort as we are handling huge amount of production lots. Hence, we would like to develop an efficient system where it can analyze functional parameters and define the next step.
 
-Objective : To build a predictive model for optimal process conditions on wafer fabrication for yield enhancement.
+Objective : To build a predictive model to define the next step after wafer testing.
 
 Refer to project presentation : https://new.express.adobe.com/webpage/koRveIxVJqYpH
